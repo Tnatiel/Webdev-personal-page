@@ -30,10 +30,10 @@ hr {
     border-top-style: groove;
     border-color: grey;
     border-width: 5px;
-    text-align: center;
-    
+    text-align: center;   
   }
 
+  
 
 /*****************************CLASS SELECTORS***********************************/
 
@@ -44,3 +44,4 @@ hr {
 }
 
 /*****************************ID SELECTORS***********************************/
+
