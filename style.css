@@ -33,7 +33,9 @@ hr {
     text-align: center;   
   }
 
-  
+p {
+    width: 60%;
+}
 
 /*****************************CLASS SELECTORS***********************************/
 
@@ -41,6 +43,10 @@ hr {
     border: 10px;
     box-shadow: 5px 5px black;
     margin: 5px 0 25px;
+}
+
+.movie-desc {
+    width: 50%;
 }
 
 /*****************************ID SELECTORS***********************************/
